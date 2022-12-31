@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narada V Thennakoon
 ===========================================================================================================================================
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images.pexels.com/photos/5483064/pexels-photo-5483064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="400" width="1450" /></a>
+
 Mobile app Developer - Flutter
 ------------------------------
 
-hi. I'm mobile app developer front and back ends and Specially Flutter
+hi. I'm mobile app developer frontend andback end Specially Flutter!!!!!!!!!
 
 * 🌍  I'm based in Kandy, Sri Lanka 💪
 * ✉️  You can contact me at [vnarada@gmail.com](mailto:vnarada@gmail.com)
