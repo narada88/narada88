@@ -1,5 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narada V Thennakoon
 ===========================================================================================================================================
+</br></br></br>
+<img src="https://www.teahub.io/photos/full/22-220999_web-developer-wallpaper-web-development.jpg" alt="MarineGEO circle logo" style="height: 450px; width:1000px;"/>
+    
+</br></br></br>
+
 
 Mobile app Developer - Flutter
 ------------------------------
@@ -41,6 +46,8 @@ src="https://img.shields.io/github/followers/narada89?logo=github&style=for-the-
 <p align="left"> <a href="https://discord.com/users/narada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/narada v Thennakoon " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/narada89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/narada_vikumv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@vnarada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<img src="https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096" alt="MarineGEO circle logo" style="height: 250px; width:450px;"/>
 
 <b>My GitHub Stats</b>
 
